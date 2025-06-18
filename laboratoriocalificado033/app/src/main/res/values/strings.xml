@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LaboratorioCalificado03</string>
+    <string name="email_subject">Contacto desde la App</string>
+    <string name="email_app_not_found">No se encontró una aplicación de correo.</string>
+</resources>
