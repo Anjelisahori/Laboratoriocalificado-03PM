@@ -52,7 +52,7 @@ Este proyecto de Android Studio, desarrollado en Kotlin, forma parte del Laborat
 
 1.  **Clonar el Repositorio:**
     ```bash
-    git clone [URL_DE_TU_REPOSITORIO_GITHUB]
+    git clone [https://github.com/Anjelisahori/Laboratoriocalificado-03PM.git]
     ```
 2.  **Abrir en Android Studio:**
     * Abre Android Studio y selecciona `File > Open`.
