@@ -18,39 +18,6 @@ Este proyecto de Android Studio, desarrollado en Kotlin, forma parte del Laborat
 * **Modularización del Código:** Estructura de proyecto limpia con separación de responsabilidades (API Service, Retrofit Client, Adapter, Activity).
 * **Externalización de Cadenas y Dimensiones:** Uso de `strings.xml` y `dimens.xml` para una buena práctica de internacionalización y diseño.
 
-## Estructura del Proyecto
-
-LaboratorioCalificado03/
-├── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── AndroidManifest.xml
-│   │   │   ├── java/
-│   │   │   │   └── com/verastigue/anjeli/laboratoriocalificado_03/
-│   │   │   │       ├── ApiService.kt
-│   │   │   │       ├── Ejercicio01.kt
-│   │   │   │       ├── RetrofitClient.kt
-│   │   │   │       ├── Teacher.kt
-│   │   │   │       └── TeacherAdapter.kt
-│   │   │   └── res/
-│   │   │       ├── drawable/
-│   │   │       │   └── ic_person_placeholder.xml  (o .png/.jpg)
-│   │   │       ├── layout/
-│   │   │       │   ├── activity_ejercicio01.xml
-│   │   │       │   └── item_teacher.xml
-│   │   │       ├── mipmap/
-│   │   │       ├── values/
-│   │   │       │   ├── colors.xml
-│   │   │       │   ├── dimens.xml
-│   │   │       │   └── strings.xml
-│   │   │       └── ... (otras carpetas de recursos)
-│   ├── build.gradle (Módulo: app)
-│   └── ...
-├── build.gradle (Proyecto: LaboratorioCalificado03)
-├── settings.gradle.kts
-└── README.md
-
-
 ## Requisitos y Configuración
 
 * **Android Studio:** Versión Artic Fox 2021.3.1 o superior (recomendado).
